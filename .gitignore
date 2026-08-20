@@ -1,0 +1,6 @@
+/dist/
+/.build/
+/rsrc.syso
+/tools/*.exe
+*.log
+
